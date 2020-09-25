@@ -2,8 +2,6 @@
 
 This is the initial project for create app webpack.
 
-### Notes
-
 #### Instructions:
 
 1.Node module:
